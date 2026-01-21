@@ -15,8 +15,6 @@ export function EventsPreview() {
     switch (language) {
       case "ru":
         return "ru-RU"
-      case "uz":
-        return "uz-UZ"
       default:
         return "en-US"
     }

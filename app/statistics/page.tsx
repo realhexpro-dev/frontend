@@ -216,6 +216,7 @@ export default function Statistics() {
             </table>
           </div>
         </Card>
+      </div>
       </main>
       <Footer />
     </div>
