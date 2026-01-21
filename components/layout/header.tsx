@@ -31,7 +31,7 @@ export function Header() {
               <Wheat className="w-6 h-6 md:w-7 md:h-7 text-primary-foreground" />
             </div>
             <span className="text-xl md:text-2xl font-bold text-foreground tracking-tight">
-              KISHO<span className="text-primary">VARZ</span>
+              Кишо<span className="text-primary">варзи Суғд</span>
             </span>
           </Link>
 
